@@ -1,7 +1,7 @@
 <?php
         $commands = array(
                 'HELO uber.com',
-                'MAIL FROM: <admin@uber.com>',
+                'MAIL FROM: <admin@reddit.com>',
                 'RCPT To: <54v4n7@wearehackerone.com>',
                 'DATA',
                 'Subject: corben!',
