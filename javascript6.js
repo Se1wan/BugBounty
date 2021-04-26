@@ -1,5 +1,3 @@
-function exploit(){
-    alert(1);
-}
-
-exploit();
+window.onload = function() {
+   alert('bye bye Honey')
+};
