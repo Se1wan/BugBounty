@@ -1,7 +1,5 @@
 {
-    "jsonEditor":{
-        "name":"value"
-    },
+    "jsonEditor":"{\"x\":5,\"y\":6}",
     "validatorUrl":"https://webhook.site/595219f2-fa1b-4278-b915-66d4113ce8d8",
     "swagger": "2.0",
     "info": {
